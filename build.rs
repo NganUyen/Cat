@@ -3,6 +3,7 @@ use std::env;
 use std::path::Path;
 
 fn main() -> io::Result<()> {
+    // làm ơn học git rồi dùng, làm theo yt thì có mà ăn cứt
     // Đối với Windows, có thể sử dụng winres để tạo biểu tượng và metadata
     #[cfg(target_os = "windows")]
     {
